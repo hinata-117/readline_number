@@ -10,7 +10,7 @@ program for enter to numeric
 - Visual Studio 2019
 
 ## Rust
-- Visual Stdio Code
+- Visual Studio Code
 - Rust(https://www.rust-lang.org/tools/install)
 
 # Author
