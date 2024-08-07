@@ -1,8 +1,11 @@
 [package]
 name = "numeric"
+description = "Numerical Standard Input Library"
 version = "0.1.0"
 authors = ["hinata"]
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/hinata-117/readline_number.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
